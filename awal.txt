@@ -2,3 +2,6 @@ makan\
 nasi\
 padang\
 merah\
+ayam
+perkedel
+tempe orek
